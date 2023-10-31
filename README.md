@@ -1,6 +1,6 @@
 Hey hey buddy 🔥
 
-🐱 I`m bullsh*t! Developer
+🐱 I`m <s>bullsh*t</s>.! Developer
 
 🎨 I'm passionate about design (UI/UX)
 
