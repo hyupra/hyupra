@@ -2,7 +2,7 @@
 <h5>Undergraduate Informatics Student at Bandar Lampung University</h5>
 <hr>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusrizkisetiawan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyupra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=bagusrizkisetiawan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 <hr>
